@@ -1,0 +1,7 @@
+C:\Users\HUGO RAMIREZ\OneDrive\Desktop\csharp-adso-EstebanRamirezVerdugo\Sesion02\Reto\Reto\bin\Debug\Reto.exe.config
+C:\Users\HUGO RAMIREZ\OneDrive\Desktop\csharp-adso-EstebanRamirezVerdugo\Sesion02\Reto\Reto\bin\Debug\Reto.exe
+C:\Users\HUGO RAMIREZ\OneDrive\Desktop\csharp-adso-EstebanRamirezVerdugo\Sesion02\Reto\Reto\bin\Debug\Reto.pdb
+C:\Users\HUGO RAMIREZ\OneDrive\Desktop\csharp-adso-EstebanRamirezVerdugo\Sesion02\Reto\Reto\obj\Debug\Reto.csproj.AssemblyReference.cache
+C:\Users\HUGO RAMIREZ\OneDrive\Desktop\csharp-adso-EstebanRamirezVerdugo\Sesion02\Reto\Reto\obj\Debug\Reto.csproj.CoreCompileInputs.cache
+C:\Users\HUGO RAMIREZ\OneDrive\Desktop\csharp-adso-EstebanRamirezVerdugo\Sesion02\Reto\Reto\obj\Debug\Reto.exe
+C:\Users\HUGO RAMIREZ\OneDrive\Desktop\csharp-adso-EstebanRamirezVerdugo\Sesion02\Reto\Reto\obj\Debug\Reto.pdb
