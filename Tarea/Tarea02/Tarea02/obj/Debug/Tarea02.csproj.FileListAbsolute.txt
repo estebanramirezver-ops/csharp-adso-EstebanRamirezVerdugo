@@ -1,0 +1,7 @@
+C:\Users\HUGO RAMIREZ\OneDrive\Desktop\csharp-adso-EstebanRamirezVerdugo\Sesion02\Tarea02\Tarea02\obj\Debug\Tarea02.csproj.AssemblyReference.cache
+C:\Users\HUGO RAMIREZ\OneDrive\Desktop\csharp-adso-EstebanRamirezVerdugo\Sesion02\Tarea02\Tarea02\obj\Debug\Tarea02.csproj.CoreCompileInputs.cache
+C:\Users\HUGO RAMIREZ\OneDrive\Desktop\csharp-adso-EstebanRamirezVerdugo\Sesion02\Tarea02\Tarea02\bin\Debug\Tarea02.exe.config
+C:\Users\HUGO RAMIREZ\OneDrive\Desktop\csharp-adso-EstebanRamirezVerdugo\Sesion02\Tarea02\Tarea02\bin\Debug\Tarea02.exe
+C:\Users\HUGO RAMIREZ\OneDrive\Desktop\csharp-adso-EstebanRamirezVerdugo\Sesion02\Tarea02\Tarea02\bin\Debug\Tarea02.pdb
+C:\Users\HUGO RAMIREZ\OneDrive\Desktop\csharp-adso-EstebanRamirezVerdugo\Sesion02\Tarea02\Tarea02\obj\Debug\Tarea02.exe
+C:\Users\HUGO RAMIREZ\OneDrive\Desktop\csharp-adso-EstebanRamirezVerdugo\Sesion02\Tarea02\Tarea02\obj\Debug\Tarea02.pdb
