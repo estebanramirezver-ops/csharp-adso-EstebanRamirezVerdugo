@@ -1,0 +1,15 @@
+C:\Users\HUGO RAMIREZ\OneDrive\Desktop\csharp-adso-EstebanRamirezVerdugo\Sesion03\Sesion03\Sesion03\obj\Debug\net10.0\Sesion03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HUGO RAMIREZ\OneDrive\Desktop\csharp-adso-EstebanRamirezVerdugo\Sesion03\Sesion03\Sesion03\obj\Debug\net10.0\Sesion03.AssemblyInfoInputs.cache
+C:\Users\HUGO RAMIREZ\OneDrive\Desktop\csharp-adso-EstebanRamirezVerdugo\Sesion03\Sesion03\Sesion03\obj\Debug\net10.0\Sesion03.AssemblyInfo.cs
+C:\Users\HUGO RAMIREZ\OneDrive\Desktop\csharp-adso-EstebanRamirezVerdugo\Sesion03\Sesion03\Sesion03\obj\Debug\net10.0\Sesion03.csproj.CoreCompileInputs.cache
+C:\Users\HUGO RAMIREZ\OneDrive\Desktop\csharp-adso-EstebanRamirezVerdugo\Sesion03\Sesion03\Sesion03\bin\Debug\net10.0\Sesion03.exe
+C:\Users\HUGO RAMIREZ\OneDrive\Desktop\csharp-adso-EstebanRamirezVerdugo\Sesion03\Sesion03\Sesion03\bin\Debug\net10.0\Sesion03.deps.json
+C:\Users\HUGO RAMIREZ\OneDrive\Desktop\csharp-adso-EstebanRamirezVerdugo\Sesion03\Sesion03\Sesion03\bin\Debug\net10.0\Sesion03.runtimeconfig.json
+C:\Users\HUGO RAMIREZ\OneDrive\Desktop\csharp-adso-EstebanRamirezVerdugo\Sesion03\Sesion03\Sesion03\bin\Debug\net10.0\Sesion03.dll
+C:\Users\HUGO RAMIREZ\OneDrive\Desktop\csharp-adso-EstebanRamirezVerdugo\Sesion03\Sesion03\Sesion03\bin\Debug\net10.0\Sesion03.pdb
+C:\Users\HUGO RAMIREZ\OneDrive\Desktop\csharp-adso-EstebanRamirezVerdugo\Sesion03\Sesion03\Sesion03\obj\Debug\net10.0\Sesion03.dll
+C:\Users\HUGO RAMIREZ\OneDrive\Desktop\csharp-adso-EstebanRamirezVerdugo\Sesion03\Sesion03\Sesion03\obj\Debug\net10.0\refint\Sesion03.dll
+C:\Users\HUGO RAMIREZ\OneDrive\Desktop\csharp-adso-EstebanRamirezVerdugo\Sesion03\Sesion03\Sesion03\obj\Debug\net10.0\Sesion03.pdb
+C:\Users\HUGO RAMIREZ\OneDrive\Desktop\csharp-adso-EstebanRamirezVerdugo\Sesion03\Sesion03\Sesion03\obj\Debug\net10.0\Sesion03.genruntimeconfig.cache
+C:\Users\HUGO RAMIREZ\OneDrive\Desktop\csharp-adso-EstebanRamirezVerdugo\Sesion03\Sesion03\Sesion03\obj\Debug\net10.0\ref\Sesion03.dll
+C:\Users\HUGO RAMIREZ\OneDrive\Desktop\csharp-adso-EstebanRamirezVerdugo\Sesion03\Sesion03\Sesion03\obj\Debug\net10.0\Sesion03.csproj.Up2Date
