@@ -1,0 +1,15 @@
+C:\Users\HUGO RAMIREZ\OneDrive\Desktop\csharp-adso-EstebanRamirezVerdugo\Sesion04\Reto04\Reto04\bin\Debug\net10.0\Reto04.exe
+C:\Users\HUGO RAMIREZ\OneDrive\Desktop\csharp-adso-EstebanRamirezVerdugo\Sesion04\Reto04\Reto04\bin\Debug\net10.0\Reto04.deps.json
+C:\Users\HUGO RAMIREZ\OneDrive\Desktop\csharp-adso-EstebanRamirezVerdugo\Sesion04\Reto04\Reto04\bin\Debug\net10.0\Reto04.runtimeconfig.json
+C:\Users\HUGO RAMIREZ\OneDrive\Desktop\csharp-adso-EstebanRamirezVerdugo\Sesion04\Reto04\Reto04\bin\Debug\net10.0\Reto04.dll
+C:\Users\HUGO RAMIREZ\OneDrive\Desktop\csharp-adso-EstebanRamirezVerdugo\Sesion04\Reto04\Reto04\bin\Debug\net10.0\Reto04.pdb
+C:\Users\HUGO RAMIREZ\OneDrive\Desktop\csharp-adso-EstebanRamirezVerdugo\Sesion04\Reto04\Reto04\obj\Debug\net10.0\Reto04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HUGO RAMIREZ\OneDrive\Desktop\csharp-adso-EstebanRamirezVerdugo\Sesion04\Reto04\Reto04\obj\Debug\net10.0\Reto04.AssemblyInfoInputs.cache
+C:\Users\HUGO RAMIREZ\OneDrive\Desktop\csharp-adso-EstebanRamirezVerdugo\Sesion04\Reto04\Reto04\obj\Debug\net10.0\Reto04.AssemblyInfo.cs
+C:\Users\HUGO RAMIREZ\OneDrive\Desktop\csharp-adso-EstebanRamirezVerdugo\Sesion04\Reto04\Reto04\obj\Debug\net10.0\Reto04.csproj.CoreCompileInputs.cache
+C:\Users\HUGO RAMIREZ\OneDrive\Desktop\csharp-adso-EstebanRamirezVerdugo\Sesion04\Reto04\Reto04\obj\Debug\net10.0\Reto04.dll
+C:\Users\HUGO RAMIREZ\OneDrive\Desktop\csharp-adso-EstebanRamirezVerdugo\Sesion04\Reto04\Reto04\obj\Debug\net10.0\refint\Reto04.dll
+C:\Users\HUGO RAMIREZ\OneDrive\Desktop\csharp-adso-EstebanRamirezVerdugo\Sesion04\Reto04\Reto04\obj\Debug\net10.0\Reto04.pdb
+C:\Users\HUGO RAMIREZ\OneDrive\Desktop\csharp-adso-EstebanRamirezVerdugo\Sesion04\Reto04\Reto04\obj\Debug\net10.0\Reto04.genruntimeconfig.cache
+C:\Users\HUGO RAMIREZ\OneDrive\Desktop\csharp-adso-EstebanRamirezVerdugo\Sesion04\Reto04\Reto04\obj\Debug\net10.0\ref\Reto04.dll
+C:\Users\HUGO RAMIREZ\OneDrive\Desktop\csharp-adso-EstebanRamirezVerdugo\Sesion04\Reto04\Reto04\obj\Debug\net10.0\Reto04.csproj.Up2Date
