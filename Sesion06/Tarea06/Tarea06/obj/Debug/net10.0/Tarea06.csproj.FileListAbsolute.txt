@@ -1,0 +1,15 @@
+C:\Users\HUGO RAMIREZ\OneDrive\Desktop\csharp-adso-EstebanRamirezVerdugo\Sesion06\Tarea06\Tarea06\bin\Debug\net10.0\Tarea06.exe
+C:\Users\HUGO RAMIREZ\OneDrive\Desktop\csharp-adso-EstebanRamirezVerdugo\Sesion06\Tarea06\Tarea06\bin\Debug\net10.0\Tarea06.deps.json
+C:\Users\HUGO RAMIREZ\OneDrive\Desktop\csharp-adso-EstebanRamirezVerdugo\Sesion06\Tarea06\Tarea06\bin\Debug\net10.0\Tarea06.runtimeconfig.json
+C:\Users\HUGO RAMIREZ\OneDrive\Desktop\csharp-adso-EstebanRamirezVerdugo\Sesion06\Tarea06\Tarea06\bin\Debug\net10.0\Tarea06.dll
+C:\Users\HUGO RAMIREZ\OneDrive\Desktop\csharp-adso-EstebanRamirezVerdugo\Sesion06\Tarea06\Tarea06\bin\Debug\net10.0\Tarea06.pdb
+C:\Users\HUGO RAMIREZ\OneDrive\Desktop\csharp-adso-EstebanRamirezVerdugo\Sesion06\Tarea06\Tarea06\obj\Debug\net10.0\Tarea06.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HUGO RAMIREZ\OneDrive\Desktop\csharp-adso-EstebanRamirezVerdugo\Sesion06\Tarea06\Tarea06\obj\Debug\net10.0\Tarea06.AssemblyInfoInputs.cache
+C:\Users\HUGO RAMIREZ\OneDrive\Desktop\csharp-adso-EstebanRamirezVerdugo\Sesion06\Tarea06\Tarea06\obj\Debug\net10.0\Tarea06.AssemblyInfo.cs
+C:\Users\HUGO RAMIREZ\OneDrive\Desktop\csharp-adso-EstebanRamirezVerdugo\Sesion06\Tarea06\Tarea06\obj\Debug\net10.0\Tarea06.csproj.CoreCompileInputs.cache
+C:\Users\HUGO RAMIREZ\OneDrive\Desktop\csharp-adso-EstebanRamirezVerdugo\Sesion06\Tarea06\Tarea06\obj\Debug\net10.0\Tarea06.dll
+C:\Users\HUGO RAMIREZ\OneDrive\Desktop\csharp-adso-EstebanRamirezVerdugo\Sesion06\Tarea06\Tarea06\obj\Debug\net10.0\refint\Tarea06.dll
+C:\Users\HUGO RAMIREZ\OneDrive\Desktop\csharp-adso-EstebanRamirezVerdugo\Sesion06\Tarea06\Tarea06\obj\Debug\net10.0\Tarea06.pdb
+C:\Users\HUGO RAMIREZ\OneDrive\Desktop\csharp-adso-EstebanRamirezVerdugo\Sesion06\Tarea06\Tarea06\obj\Debug\net10.0\Tarea06.genruntimeconfig.cache
+C:\Users\HUGO RAMIREZ\OneDrive\Desktop\csharp-adso-EstebanRamirezVerdugo\Sesion06\Tarea06\Tarea06\obj\Debug\net10.0\ref\Tarea06.dll
+C:\Users\HUGO RAMIREZ\OneDrive\Desktop\csharp-adso-EstebanRamirezVerdugo\Sesion06\Tarea06\Tarea06\obj\Debug\net10.0\Tarea06.csproj.Up2Date
