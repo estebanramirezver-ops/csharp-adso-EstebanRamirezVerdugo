@@ -1,0 +1,50 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.rsuser
+*.userosscache
+*.sln.docstates
+*.vsidx
+.vscode/
+
+# Compilación
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+*.dll
+*.exe
+*.pdb
+
+# NuGet
+*.nupkg
+*.snupkg
+packages/
+
+# Pruebas y cobertura
+TestResults/
+*.coverage
+*.coveragexml
+
+# Publicación
+publish/
+PublishScripts/
+*.pubxml
+
+# Datos generados por la aplicación
+inventario.json
+inventario.json.danado
+
+# Variables de entorno
+.env
+
+# Sistema operativo
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Registros
+*.log
