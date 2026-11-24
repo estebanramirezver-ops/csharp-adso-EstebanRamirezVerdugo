@@ -44,10 +44,9 @@ namespace Reto10
         {
             Producto? masCaro = _servicio!.Listar().MaxBy(p => p.Precio);
 
-            textBox3.ReadOnly = true;
-            textBox3.Text = masCaro is null
-                ? "No hay productos"
-                : $"{masCaro.Nombre} - {masCaro.Precio:C0}";
+            lblProductosValiosos.Text = masCaro is null
+                ? "Productos Valiosos: "
+                : $"Productos Valiosos (más caro: {masCaro.Nombre} - {masCaro.Precio:C0}): ";
         }
 
         private static bool Coincide(Producto p, string texto) =>
@@ -115,7 +114,7 @@ namespace Reto10
 
             textBox2.ReadOnly = true;
 
-            if (bajos.Count < 0)
+            if (bajos.Count == 0)
             {
                 textBox2.Text = "Ningún producto con stock bajo";
                 return;

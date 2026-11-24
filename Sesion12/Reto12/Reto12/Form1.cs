@@ -42,7 +42,6 @@ namespace Reto10
                 }
             }
 
-            decimal total = _servicio.Listar().Sum(p => p.Precio * p.Stock);
         }
 
         private Producto? Seleccionado() => dataGridView1.CurrentRow?.DataBoundItem as Producto;
@@ -105,6 +104,7 @@ namespace Reto10
 
             try
             {
+                int stockRestante = producto.Stock - cantidad;
                 _servicio.Vender(producto.Codigo, cantidad);
 
                 MessageBox.Show(
@@ -112,13 +112,13 @@ namespace Reto10
                     $"Cantidad: {cantidad}\n" +
                     $"Precio unitario: {producto.Precio:C0}\n" +
                     $"Total: {producto.Precio * cantidad:C0}\n" +
-                    $"Stock restante: {producto.Stock - cantidad}",
+                    $"Stock restante: {stockRestante}",
                     "Venta realizada", MessageBoxButtons.OK, MessageBoxIcon.Information);
 
                 nudCantidad.Value = 1;
                 CargarProductos();
             }
-            catch (ArgumentException ex)
+            catch (Exception ex) when (ex is ArgumentException || ex is StockInsuficienteException)
             {
                 MessageBox.Show(ex.Message, "No se pudo vender", MessageBoxButtons.OK, MessageBoxIcon.Warning);
             }

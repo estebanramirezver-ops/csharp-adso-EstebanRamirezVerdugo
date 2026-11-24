@@ -1,4 +1,4 @@
-using static System.Windows.Forms.VisualStyles.VisualStyleElement;
+using System.Globalization;
 
 namespace Tarea09
 {
@@ -72,7 +72,7 @@ namespace Tarea09
 
             bool valido = true;
 
-            if (!double.TryParse(txtBox1.Text, out double valor))
+            if (!double.TryParse(txtBox1.Text.Trim().Replace(',', '.'), NumberStyles.Float, CultureInfo.InvariantCulture, out double valor))
             {
                 errorProvider1.SetError(txtBox1, "Escribe un número válido.");
                 valido = false;

@@ -2,7 +2,6 @@
 using System.Collections;
 using System.Collections.Generic;
 using System.Text;
-using static System.Runtime.InteropServices.JavaScript.JSType;
 
 public class Productos
 {
@@ -10,10 +9,10 @@ public class Productos
     public int stock { get; set; }
 
 
-    public Productos(string nombreProducto, int Stock)
+    public Productos(string nombreProducto, int stock)
     {
-        nombreProducto = producto;
-        Stock = stock;
+        producto = nombreProducto;
+        this.stock = stock;
     }
 
     public void Vender(int cantidad)

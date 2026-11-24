@@ -26,6 +26,16 @@ public class Producto
         Stock = stock;
     }
 
+    public void Editar(string nombre, decimal precio)
+    {
+        if (string.IsNullOrWhiteSpace(nombre))
+            throw new ArgumentException("El nombre no puede estar vacío.");
+        if (precio <= 0)
+            throw new ArgumentException("El precio debe ser mayor que 0.");
+        Nombre = nombre.Trim();
+        Precio = precio;
+    }
+
     public void AgregarStock(int cantidad)
     {
         if (cantidad <= 0)

@@ -63,9 +63,9 @@ public class ServicioInventario
         Producto actual = _repositorio.BuscarPorCodigo(codigo)
             ?? throw new ArgumentException($"No existe el producto {codigo}.");
 
-        var actualizado = new Producto(actual.Codigo, nombre, precio, actual.Stock);
-        actualizado.CambiarCategoria(categoriaId);
-        _repositorio.Actualizar(actualizado);
+        actual.Editar(nombre, precio);
+        actual.CambiarCategoria(categoriaId);
+        _repositorio.Actualizar(actual);
     }
 
     public record ResumenCategoria(string Categoria, int Productos, decimal Valor);

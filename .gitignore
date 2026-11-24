@@ -1,0 +1,17 @@
+# Visual Studio / .NET
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.rsuser
+*.userosscache
+*.sln.docstates
+*.vsidx
+.vscode/
+
+# Bases de datos y archivos generados al ejecutar
+*.db
+contactos.json
+inventario.json
+*.danado

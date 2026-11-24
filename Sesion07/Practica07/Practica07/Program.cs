@@ -1,13 +1,10 @@
-﻿public class celular
-{
-    private string _marca = "";
-    private int _bateria;
+﻿using Practica07;
 
-    public string marca { get; private set; }
-    public int bateria { get; private set; }
+Celular celular = new("Samsung", 80);
+Console.WriteLine($"{celular.Marca}: {celular.Bateria}%");
 
-    public string marca
-    {
+celular.Cargar(30);
+Console.WriteLine($"Después de cargar: {celular.Bateria}%");
 
-    }
-}
+Carros carro = new("abc123", 5);
+Console.WriteLine(carro);

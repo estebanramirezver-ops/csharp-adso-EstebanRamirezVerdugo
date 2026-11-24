@@ -1,6 +1,4 @@
-﻿using static System.Windows.Forms.VisualStyles.VisualStyleElement;
-
-namespace Tarea09
+﻿namespace Tarea09
 {
     public static class ConversorMoneda
     {

@@ -12,4 +12,4 @@
 //Console.WriteLine(string.Join(", ", top3));
 
 var mayoro80 = pares.Where(n => n >= 80).ToList();
-Console.WriteLine($"Se muestra en este mensaje si hay un numero mayor o igual a 80, sino aparece Miguel es GAY: {(string.Join(", ", mayoro80))}");
+Console.WriteLine($"Números mayores o iguales a 80: {(string.Join(", ", mayoro80))}");

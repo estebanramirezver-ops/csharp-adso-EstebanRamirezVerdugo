@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace Practica07
+﻿namespace Practica07
 {
     public class Vehiculos
     {
@@ -17,16 +13,19 @@ namespace Practica07
             Console.WriteLine("1. Constructor de Vehiculo");
         }
 
-        public class Carros : Vehiculos
-        {
-            public int Puestos { get; }
+        public override string ToString() => $"Placa: {Placa}, Ruedas: {Ruedas}";
+    }
 
-            public Carros(string placa, int puestos) : base(placa, 4)
-            {
-                Puestos = puestos;
-                Console.WriteLine("2. Constructor de carro");
-            }
+    public class Carros : Vehiculos
+    {
+        public int Puestos { get; }
+
+        public Carros(string placa, int puestos) : base(placa, 4)
+        {
+            Puestos = puestos;
+            Console.WriteLine("2. Constructor de carro");
         }
 
+        public override string ToString() => $"{base.ToString()}, Puestos: {Puestos}";
     }
 }

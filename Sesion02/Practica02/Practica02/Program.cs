@@ -23,19 +23,19 @@ namespace Practica02
             else
             {
                 Console.WriteLine("Credenciales incorrectas");
+                return;
             }
 
             Console.WriteLine("Bienvenido a la calculadora ");
 
             Console.WriteLine("Primero, ingrese un valor para la A: ");
-            string entrada = Console.ReadLine().ToLower().Trim();
-            int A = Convert.ToInt32(entrada);
+            int A = PedirEntero();
 
             Console.WriteLine("Por último, ingrese un valor para la B: ");
-            int B = Convert.ToInt32(Console.ReadLine());
+            int B = PedirEntero();
             Console.WriteLine("Digite la opción que mejor le parezca a usted: \n1.Sumar\n2.Restar\n3.Multiplicar\n4.División\n5.Notas");
 
-            int opc = Convert.ToInt32(Console.ReadLine());
+            int opc = PedirEntero();
             switch (opc)
             {
                 case 1:
@@ -56,8 +56,11 @@ namespace Practica02
                         Console.WriteLine($"La división entre {A} ÷ {B} es {A / B}");
                     break;
                 case 5:
-                    double nota = Convert.ToDouble(Console.ReadLine());
-                    if (nota < 0 && nota > 5)
+                    Console.WriteLine("Ingrese la nota: ");
+                    double nota;
+                    while (!double.TryParse(Console.ReadLine(), out nota))
+                        Console.WriteLine("Escriba un número válido: ");
+                    if (nota < 0 || nota > 5)
                         Console.WriteLine("La nota debe ser entre 0.0 y 5.0");
                     else if (nota >= 4.6)
                         Console.WriteLine("Tu nota es Sobresaliente");
@@ -65,14 +68,22 @@ namespace Practica02
                         Console.WriteLine("Tu nota es excelente");
                     else if (nota >= 3.0)
                         Console.WriteLine("Tu nota es regular");
+                    else
+                        Console.WriteLine("Tu nota es deficiente");
                     break;
                 default:
                     Console.WriteLine("Opción Incorreta u operación inválida");
                     break;
             }
-   
+
         }
 
-
+        static int PedirEntero()
+        {
+            int valor;
+            while (!int.TryParse(Console.ReadLine(), out valor))
+                Console.WriteLine("Escriba un número entero: ");
+            return valor;
+        }
     }
 }

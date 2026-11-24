@@ -28,8 +28,10 @@ finally
     Console.WriteLine("Operación terminada");
 }
 
+Practica3.Ejecutar();
+
 public class StockInsuficienteException : Exception
 {
     public StockInsuficienteException(string producto, int disponible)
-        : base($"No hay suficientes {producto}. Disponible: {disponible}. ()") { }
+        : base($"No hay suficiente {producto}. Disponible: {disponible}.") { }
 }
